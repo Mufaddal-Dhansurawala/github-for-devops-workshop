@@ -8,3 +8,4 @@ git commit -m "added testing file"
 git status
 git restore testing.py 
 git status
+git push origin master
